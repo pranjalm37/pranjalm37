@@ -18,7 +18,7 @@ I'm currently a final year student pursuing Computer Science Engineering at Mani
 - Building bots that track stock and deals on quick commerce apps in my spare time
 - Mainly building security tools, hunting for bugs, and doing hands-on security research
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## Tech Stack
 
@@ -59,7 +59,7 @@ I'm currently a final year student pursuing Computer Science Engineering at Mani
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## Find Me
 
