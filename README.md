@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3300&pause=1300&color=00FF41&left=true&vCenter=true&width=620&lines=Hi%2C+I'm+Pranjal" alt="Hi, I'm Pranjal" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3100&pause=1500&color=00FF41&left=true&vCenter=true&width=620&lines=Hi%2C+I'm+Pranjal" alt="Hi, I'm Pranjal" />
 </h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=19&duration=3000&pause=1000&color=555555&left=true&vCenter=true&width=650&lines=Software+%2B+CyberSecurity+student;Secure+by+design;I+Turn+Coffee+Into+Code." alt="Software + CyberSecurity student. Secure by design. I turn coffee into code." />
