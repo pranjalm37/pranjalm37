@@ -1,10 +1,8 @@
 <h1 align="left">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3100&pause=1800&color=00FF41&left=true&vCenter=true&width=620&lines=Hi%2C+I'm+Pranjal" alt="Hi, I'm Pranjal" />
 </h1>
-
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=19&duration=3000&pause=1000&color=555555&left=true&vCenter=true&width=650&lines=Software+%2B+CyberSecurity+student;Secure+by+design;I+Turn+Coffee+Into+Code." alt="Software + CyberSecurity student. I turn coffee into code." />
 
-<br>
 I like breaking things, fixing them, and also making it harder for others to break it :')
 
 I'm currently a final year student pursuing Computer Science Engineering at Manipal Institute of Technology, with internship experience at Amazon, PwC and Cisco. My interests are aligned with secure software development, offensive and defensive security, vulnerability assessment and OSINT.
