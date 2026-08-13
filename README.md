@@ -5,7 +5,7 @@
 
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=4000&pause=100000&color=FFD700&left=true&vCenter=true&width=220&height=36&lines=Portfolio" alt="Portfolio" /> ➜ <a href="https://pranjalm37-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" height="20"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=4000&pause=100000&color=FFD700&left=true&vCenter=true&width=120&height=36&lines=Portfolio" alt="Portfolio" /> ➜ <a href="https://pranjalm37-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" height="20"/></a>
 </p>
 
 I like breaking things, fixing them, and also making it harder for others to break it :')
