@@ -3,6 +3,12 @@
 </h1>
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=19&duration=3000&pause=1000&color=555555&left=true&vCenter=true&width=650&lines=Software+%2B+CyberSecurity+student;I+Turn+Coffee+Into+Code." alt="Software + CyberSecurity student. I turn coffee into code." />
 
+
+<p>
+<span style="font-size:22px; color:#FFD700; font-weight:700;">Portfolio</span> ➜ <a href="https://pranjalm37-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" height="20"/></a>
+</p>
+
+
 I like breaking things, fixing them, and also making it harder for others to break it :')
 
 I'm currently a final year student pursuing Computer Science Engineering at Manipal Institute of Technology, with internship experience at Amazon, PwC and Cisco. My interests are aligned with secure software development, offensive and defensive security, vulnerability assessment and OSINT.
